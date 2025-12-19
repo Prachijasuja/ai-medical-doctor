@@ -6209,6 +6209,78 @@
           "timestamp": "2025-12-18T21:20:08.122341"
         }
       ]
+    },
+    "CASE-20251219183642": {
+      "id": "CASE-20251219183642",
+      "creator": "Radiologist",
+      "description": "general case",
+      "created_at": "2025-12-19T18:36:42.410740",
+      "participants": [
+        "Radiologist",
+        "Dr. AI Assistant"
+      ],
+      "messages": [
+        {
+          "id": "3ab95db0-3547-4a60-a720-716b9234bbac",
+          "user": "Dr. AI Assistant",
+          "content": "\ud83d\udc4b Welcome to 'general case'. I am Dr. AI \u2014 your medical assistant.",
+          "timestamp": "2025-12-19T18:36:42.410740"
+        },
+        {
+          "id": "b42b0aca-ed3a-4454-9b85-8f392f2b2408",
+          "user": "Radiologist",
+          "content": "tell about vitiligo ",
+          "timestamp": "2025-12-19T18:36:57.408673"
+        },
+        {
+          "id": "46acebde-83bb-4786-a018-1a019986c0c9",
+          "user": "Dr. AI Assistant",
+          "content": "\ud83e\ude7a Disease/Query: tell about vitiligo \n\n\ud83d\udcc4 Description:\nVitiligo is a chronic skin condition characterized by the loss of pigmentation, leading to the development of white patches on the skin. It occurs when melanocytes, the cells responsible for producing skin pigment, are destroyed or stop functioning. The exact cause of vitiligo is not completely understood, but it is believed to involve autoimmune processes, genetics, and environmental factors. Vitiligo can affect any part of the body and may be associated with other autoimmune conditions. While it is not contagious or harmful physically, it can impact a person's psychological well-being due to its visible nature.\n\n\u2695\ufe0f Recommendations / Symptoms:\nConsult a dermatologist for an accurate diagnosis and personalized management plan.; Use sun protection on depigmented areas to prevent sunburn and skin damage.; Consider psychological support if vitiligo affects your mental health.; Explore treatment options such as topical corticosteroids, calcineurin inhibitors, phototherapy, or depigmentation therapy, as advised by your healthcare provider.\n\n\ud83d\udc8a Follow-up / Treatment:\nSchedule a consultation with a dermatologist for an accurate assessment.; Ask about the latest treatment options and management strategies.; Discuss any psychological or social concerns related to the condition.\n\n\u26a0\ufe0f Warnings:\nSelf-diagnosis and self-treatment are not recommended. Professional medical advice is essential.; Some treatments may have side effects or limited efficacy, and they require medical supervision.\n\n\ud83d\udcda References:\nAmerican Academy of Dermatology Association: Vitiligo overview; National Institute of Arthritis and Musculoskeletal and Skin Diseases: Vitiligo Fact Sheet; Medical literature on autoimmune skin conditions",
+          "timestamp": "2025-12-19T18:37:20.658497"
+        }
+      ]
+    },
+    "CASE-20251219183706": {
+      "id": "CASE-20251219183706",
+      "creator": "Radiologist",
+      "description": "general case",
+      "created_at": "2025-12-19T18:37:06.429396",
+      "participants": [
+        "Radiologist",
+        "Dr. AI Assistant"
+      ],
+      "messages": [
+        {
+          "id": "b46367b6-7811-4094-86c0-2c722d531be3",
+          "user": "Dr. AI Assistant",
+          "content": "\ud83d\udc4b Welcome to 'general case'. I am Dr. AI \u2014 your medical assistant.",
+          "timestamp": "2025-12-19T18:37:06.429396"
+        },
+        {
+          "id": "ede56a6b-3474-483d-b609-79ca8d36a68e",
+          "user": "Radiologist",
+          "content": "tell about vitiligo?",
+          "timestamp": "2025-12-19T18:37:20.206023"
+        },
+        {
+          "id": "9d14e845-fe57-42a5-9bfd-ef2c32fd2429",
+          "user": "Dr. AI Assistant",
+          "content": "\ud83e\ude7a Disease/Query: tell about vitiligo?\n\n\ud83d\udcc4 Description:\nVitiligo is a chronic skin condition characterized by the loss of melanocytes, the cells responsible for producing skin pigment. This results in the development of white patches of varying size and shape on the skin. The exact cause is not fully understood, but it is believed to involve autoimmune processes, genetic factors, and environmental triggers. Vitiligo can affect people of all skin types and ages, and while it is primarily a cosmetic concern, it may also be associated with other autoimmune conditions. There is currently no cure, but various treatments like topical corticosteroids, light therapy, and skin pigmentation procedures can help manage the condition.\n\n\u2695\ufe0f Recommendations / Symptoms:\nConsult a dermatologist for an accurate diagnosis and personalized treatment plan.; Protect affected skin from excessive sun exposure to prevent sunburn and reduce contrast.; Use gentle skin care products to avoid skin irritation.; Monitor for associated autoimmune conditions if symptoms suggest, and notify your healthcare provider.\n\n\ud83d\udc8a Follow-up / Treatment:\nWould you like information on treatment options?; Are you experiencing any other symptoms?; Would you like advice on skin care for vitiligo?\n\n\u26a0\ufe0f Warnings:\nThis information is for general educational purposes and does not replace professional medical advice.; Seek immediate medical attention if you experience rapid changes in skin, additional symptoms, or if you suspect other health issues.\n\n\ud83d\udcda References:\nAmerican Academy of Dermatology Association. Vitiligo. https://www.aad.org/public/diseases/a-z/vitiligo; National Institute of Arthritis and Musculoskeletal and Skin Diseases. Vitiligo. https://www.niams.nih.gov/health-topics/vitiligo",
+          "timestamp": "2025-12-19T18:37:27.354682"
+        },
+        {
+          "id": "25542913-9d5b-47f3-ab96-df5223f59a76",
+          "user": "Radiologist",
+          "content": "i want information on treatment options of vitiligo?",
+          "timestamp": "2025-12-19T18:37:58.139392"
+        },
+        {
+          "id": "0632fae2-a1c0-438d-8d3f-bb48109d1d69",
+          "user": "Dr. AI Assistant",
+          "content": "\ud83e\ude7a Disease/Query: i want information on treatment options of vitiligo?\n\n\ud83d\udcc4 Description:\nVitiligo is a condition characterized by the loss of skin pigmentation, resulting in white patches. Treatment options aim to restore skin color or improve appearance and may include topical medications, phototherapy, and surgical procedures. Common therapies include corticosteroid or calcineurin inhibitor creams, narrowband UVB phototherapy, and, in some cases, skin grafting or melanocyte transplants. The choice of treatment depends on the extent, location, and progression of the condition, as well as individual patient factors.\n\n\u2695\ufe0f Recommendations / Symptoms:\nConsult a dermatologist for a personalized treatment plan.; Use prescribed topical treatments regularly as advised.; Consider phototherapy options if suitable.; Maintain good skin care and sun protection.; Stay informed about new emerging therapies or clinical trials.\n\n\ud83d\udc8a Follow-up / Treatment:\nSchedule a consultation with a dermatologist to discuss treatment options.; Ask about the potential benefits and risks of each therapy.; Inquire about ongoing research or clinical trials for vitiligo.\n\n\u26a0\ufe0f Warnings:\nAlways seek professional medical guidance before starting any treatment.; Some therapies may have side effects, and effectiveness varies among individuals.; Bear in mind that complete reversal of vitiligo symptoms is not always achievable.\n\n\ud83d\udcda References:\nAmerican Academy of Dermatology Association - Vitiligo: https://www.aad.org/public/diseases/a-z/vitiligo; National Institute of Arthritis and Musculoskeletal and Skin Diseases - Vitiligo: https://www.niams.nih.gov/health-topics/vitiligo",
+          "timestamp": "2025-12-19T18:38:04.959189"
+        }
+      ]
     }
   }
 }

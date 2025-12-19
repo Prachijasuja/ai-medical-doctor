@@ -194,5 +194,29 @@
     "treatment": "Would you like information on potential treatment options?; Do you have any other related symptoms or concerns?; Have you experienced similar episodes previously?",
     "warnings": "This information is for educational purposes only and does not replace professional medical advice.; If you experience sudden or extensive hair loss, or if you notice other symptoms, seek medical attention promptly.",
     "references": "American Academy of Dermatology Association: Alopecia Areata Guide.; National Alopecia Areata Foundation.; MedlinePlus: Alopecia Areata."
+  },
+  "tell about vitiligo ": {
+    "query": "tell about vitiligo ",
+    "description": "Vitiligo is a chronic skin condition characterized by the loss of pigmentation, leading to the development of white patches on the skin. It occurs when melanocytes, the cells responsible for producing skin pigment, are destroyed or stop functioning. The exact cause of vitiligo is not completely understood, but it is believed to involve autoimmune processes, genetics, and environmental factors. Vitiligo can affect any part of the body and may be associated with other autoimmune conditions. While it is not contagious or harmful physically, it can impact a person's psychological well-being due to its visible nature.",
+    "common_symptoms": "Consult a dermatologist for an accurate diagnosis and personalized management plan.; Use sun protection on depigmented areas to prevent sunburn and skin damage.; Consider psychological support if vitiligo affects your mental health.; Explore treatment options such as topical corticosteroids, calcineurin inhibitors, phototherapy, or depigmentation therapy, as advised by your healthcare provider.",
+    "treatment": "Schedule a consultation with a dermatologist for an accurate assessment.; Ask about the latest treatment options and management strategies.; Discuss any psychological or social concerns related to the condition.",
+    "warnings": "Self-diagnosis and self-treatment are not recommended. Professional medical advice is essential.; Some treatments may have side effects or limited efficacy, and they require medical supervision.",
+    "references": "American Academy of Dermatology Association: Vitiligo overview; National Institute of Arthritis and Musculoskeletal and Skin Diseases: Vitiligo Fact Sheet; Medical literature on autoimmune skin conditions"
+  },
+  "tell about vitiligo?": {
+    "query": "tell about vitiligo?",
+    "description": "Vitiligo is a chronic skin condition characterized by the loss of melanocytes, the cells responsible for producing skin pigment. This results in the development of white patches of varying size and shape on the skin. The exact cause is not fully understood, but it is believed to involve autoimmune processes, genetic factors, and environmental triggers. Vitiligo can affect people of all skin types and ages, and while it is primarily a cosmetic concern, it may also be associated with other autoimmune conditions. There is currently no cure, but various treatments like topical corticosteroids, light therapy, and skin pigmentation procedures can help manage the condition.",
+    "common_symptoms": "Consult a dermatologist for an accurate diagnosis and personalized treatment plan.; Protect affected skin from excessive sun exposure to prevent sunburn and reduce contrast.; Use gentle skin care products to avoid skin irritation.; Monitor for associated autoimmune conditions if symptoms suggest, and notify your healthcare provider.",
+    "treatment": "Would you like information on treatment options?; Are you experiencing any other symptoms?; Would you like advice on skin care for vitiligo?",
+    "warnings": "This information is for general educational purposes and does not replace professional medical advice.; Seek immediate medical attention if you experience rapid changes in skin, additional symptoms, or if you suspect other health issues.",
+    "references": "American Academy of Dermatology Association. Vitiligo. https://www.aad.org/public/diseases/a-z/vitiligo; National Institute of Arthritis and Musculoskeletal and Skin Diseases. Vitiligo. https://www.niams.nih.gov/health-topics/vitiligo"
+  },
+  "i want information on treatment options of vitiligo?": {
+    "query": "i want information on treatment options of vitiligo?",
+    "description": "Vitiligo is a condition characterized by the loss of skin pigmentation, resulting in white patches. Treatment options aim to restore skin color or improve appearance and may include topical medications, phototherapy, and surgical procedures. Common therapies include corticosteroid or calcineurin inhibitor creams, narrowband UVB phototherapy, and, in some cases, skin grafting or melanocyte transplants. The choice of treatment depends on the extent, location, and progression of the condition, as well as individual patient factors.",
+    "common_symptoms": "Consult a dermatologist for a personalized treatment plan.; Use prescribed topical treatments regularly as advised.; Consider phototherapy options if suitable.; Maintain good skin care and sun protection.; Stay informed about new emerging therapies or clinical trials.",
+    "treatment": "Schedule a consultation with a dermatologist to discuss treatment options.; Ask about the potential benefits and risks of each therapy.; Inquire about ongoing research or clinical trials for vitiligo.",
+    "warnings": "Always seek professional medical guidance before starting any treatment.; Some therapies may have side effects, and effectiveness varies among individuals.; Bear in mind that complete reversal of vitiligo symptoms is not always achievable.",
+    "references": "American Academy of Dermatology Association - Vitiligo: https://www.aad.org/public/diseases/a-z/vitiligo; National Institute of Arthritis and Musculoskeletal and Skin Diseases - Vitiligo: https://www.niams.nih.gov/health-topics/vitiligo"
   }
 }
